@@ -2,4 +2,4 @@
 
 Use this link
 
-<a href="corona_country.html" title="Countrywise Corona cases">Countrywise Corona cases</a>
+<a href="https://github.com/SadilKhan/COVID-19-Analysis/blob/master/corona_country.html" title="Countrywise Corona cases">Countrywise Corona cases</a>
