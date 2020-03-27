@@ -2,7 +2,8 @@
 
 Click [Here](https://sadilkhan.github.io/COVID-19-Analysis/corona_country.html) to see the confirmed cases all over the world.
 
-Click [Here](https://sadilkhan.github.io/COVID-19-Analysis/map_india.html) to see the confirmed cases in India statewise.
+Click below to see the confirmed cases in India statewise
+https://sadilkhan.github.io/COVID-19-Analysis/map_india.html 
 
 
 # Forecasting
