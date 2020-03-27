@@ -2,4 +2,4 @@
 
 Use this link
 
-<a href="https://github.com/SadilKhan/COVID-19-Analysis/blob/master/corona_country.html" title="Countrywise Corona cases">Countrywise Corona cases</a>
+Click [Here](https://sadilkhan.github.io/COVID-19-Analysis/corona_country.html) to see the rendered version of the map
