@@ -2,7 +2,8 @@
 
 Use this link
 
-Click [Here](https://sadilkhan.github.io/COVID-19-Analysis/corona_country.html) to see the rendered version of the map
+Click [Here](https://sadilkhan.github.io/COVID-19-Analysis/corona_country.html) to see the rendered version of the world map
+
 
 # Forecasting
 
