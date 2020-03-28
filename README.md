@@ -2,7 +2,7 @@
 
 Click [Here](https://sadilkhan.github.io/COVID-19-Analysis/corona_country.html) to see the confirmed cases all over the world. 
 
-
+https://sadilkhan.github.io/COVID-19-Analysis/map_india.html
 # Forecasting
 
 Used LSTM and Bidirectional LSTM for forecasting on cases on India.
