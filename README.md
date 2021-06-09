@@ -1,6 +1,6 @@
 # Maps
 
-Click [Here](https://sadilkhan.github.io/COVID-19-Analysis/corona_country.html) to see the confirmed cases all over the world. 
+Click [Here](https://htmlpreview.github.io/?https://sadilkhan.github.io/COVID-19-Analysis/corona_country.html) to see the confirmed cases all over the world. 
 
 # Forecasting
 
